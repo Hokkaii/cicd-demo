@@ -1,5 +1,7 @@
 # umi project
 
+cicd 学习
+
 ## Getting Started
 
 Install dependencies,
